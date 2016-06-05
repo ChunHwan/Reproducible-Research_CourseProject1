@@ -45,6 +45,6 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 
 
 #### Submitting the Assignment
-> •  Commit your completed PA1_template.Rmd file to the master branch of your git repository  
-> •  Commit your PA1_template.md and PA1_template.html files produced by processing your R markdown file  
-> •  If your document has figures included (it should) then they should have been placed in the figure/ directory by default  
+##### • Commit your completed PA1_template.Rmd file to the master branch of your git repository  
+##### • Commit your PA1_template.md and PA1_template.html files produced by processing your R markdown file  
+##### • If your document has figures included (it should) then they should have been placed in the figure/ directory by default  
