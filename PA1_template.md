@@ -19,8 +19,9 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 
 #### Assignment
 ##### Loading and preprocessing the data
-> - 1. Load the data 
-> - 2. Process/transform the data (if necessary) into a format suitable for your analysis
+> 1. Load the data   
+> 2. Process/transform the data (if necessary) into a format suitable for your analysis  
+
 ##### What is mean total number of steps taken per day?
 ##### What is the average daily activity pattern?
 ##### Imputing missing values
