@@ -16,4 +16,13 @@ The variables included in this dataset are:
 •interval: Identifier for the 5-minute interval in which measurement was taken
 
 The dataset is stored in a comma-separated-value (CSV) file and there are a total of 17,568 observations in this dataset.
+
+#### Assignment
+• Loading and preprocessing the data
+> - 1. Load the data 
+> - 2. Process/transform the data (if necessary) into a format suitable for your analysis
+• What is mean total number of steps taken per day?
+• What is the average daily activity pattern?
+• Imputing missing values
+• Are there differences in activity patterns between weekdays and weekends?
   
