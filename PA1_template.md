@@ -11,7 +11,6 @@ This assignment makes use of data from a personal activity monitoring device. Th
 The data for this assignment can be downloaded from the course web site:
 > • Dataset: Activity monitoring data [52K]
 
-#### A-3. Contents of Data Source
 The variables included in this dataset are:  
 > • steps: Number of steps taking in a 5-minute interval (missing values are coded as NA)  
 > • date: The date on which the measurement was taken in YYYY-MM-DD format  
